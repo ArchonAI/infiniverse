@@ -1,28 +1,28 @@
 export const exploreWorlds = [
   {
     id: 'world-1',
-    imgUrl: '/planet-01.png',
-    title: 'Etheria Nexus',
+    imgUrl: '/fantasy_world.png',
+    title: 'Eldoria',
   },
   {
     id: 'world-2',
-    imgUrl: '/planet-02.png',
-    title: 'NeoVirtuSphere',
+    imgUrl: '/modern_world.png',
+    title: 'Zenith Breeze',
   },
   {
     id: 'world-3',
-    imgUrl: '/planet-03.png',
-    title: 'Astral Infinity',
+    imgUrl: '/matrix_world.jpg',
+    title: 'NeoVirtuSphere',
   },
   {
     id: 'world-4',
-    imgUrl: '/planet-04.png',
+    imgUrl: '/cyberpunk_world.png',
     title: 'Quantum Realmverse',
   },
   {
     id: 'world-5',
-    imgUrl: '/planet-05.png',
-    title: 'Celestial Synthetica',
+    imgUrl: '/space_world.jpeg',
+    title: 'Planet No.9856X',
   },
 ];
 
