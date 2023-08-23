@@ -1,5 +1,5 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-PS. started by following JSMastery's Youtube tutorial and modified+improved code to create landing page
+PS. started by following JSMastery's opensource Youtube tutorial and modified+improved code to create landing page
 
 Improvements
 *updated syntax to latest versions of NextJs
